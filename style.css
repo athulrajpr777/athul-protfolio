@@ -78,4 +78,18 @@ footer {
 .cert-btn:hover {
   background-color: #ffcc00;
 }
+#cert-gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.cert-item img {
+  max-width: 90%;
+  border: 3px solid #00ffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #00ffff;
+}
 
