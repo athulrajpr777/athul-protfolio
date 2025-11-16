@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: #fff;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background-color: #1e1e2f;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  background-image: url('your-profile-image.jpg'); /* Replace with actual image path */
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  margin: 0 auto 1rem;
+  border: 3px solid #00ffff;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  background-color: #141414;
+  padding: 1rem;
+}
+
+nav a {
+  color: #00ffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 2rem;
+  border-bottom: 1px solid #444;
+}
+
+h2 {
+  color: #00ffff;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+a {
+  color: #ffcc00;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #1e1e2f;
+  font-size: 0.9rem;
+}
