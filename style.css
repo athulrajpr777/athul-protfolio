@@ -14,7 +14,7 @@ header {
 .profile-pic {
   width: 120px;
   height: 120px;
-  background-image: url('your-profile-image.jpg'); /* Replace with actual image path */
+  background-image: url('your-profile-image.jpg.jpg'); /* Replace with actual image path */
   background-size: cover;
   background-position: center;
   border-radius: 50%;
@@ -65,4 +65,5 @@ footer {
   padding: 1rem;
   background-color: #1e1e2f;
   font-size: 0.9rem;
+
 }
