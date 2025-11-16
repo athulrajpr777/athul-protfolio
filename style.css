@@ -10,18 +10,16 @@ header {
   padding: 2rem;
   background-color: #1e1e2f;
 }
-
 .profile-pic {
   width: 120px;
   height: 120px;
-  background-image: url('your-profile-image.jpg.jpg'); /* Replace with actual image path */
+  background-image: url('your-profile-image.jpg.jpg');
   background-size: cover;
   background-position: center;
   border-radius: 50%;
   margin: 0 auto 1rem;
   border: 3px solid #00ffff;
 }
-
 nav {
   display: flex;
   justify-content: center;
@@ -67,3 +65,4 @@ footer {
   font-size: 0.9rem;
 
 }
+
