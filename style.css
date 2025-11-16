@@ -92,4 +92,25 @@ footer {
   border-radius: 10px;
   box-shadow: 0 0 10px #00ffff;
 }
+#contact-info {
+  padding: 2rem;
+  background-color: #1e1e2f;
+  text-align: center;
+  border-top: 2px solid #00ffff;
+}
+
+#contact-info h2 {
+  color: #00ffff;
+  margin-bottom: 1rem;
+}
+
+#contact-info a {
+  color: #ffcc00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#contact-info a:hover {
+  text-decoration: underline;
+}
 
